@@ -4,7 +4,7 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM arm32v7/alpine:3.8
+FROM resin/raspberrypi3-alpine:3.8
 
 # A few reasons for installing distribution-provided OpenJDK:
 #
